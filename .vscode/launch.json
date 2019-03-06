@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sadt",
+            "request": "launch",
+            "mainClass": "sadt",
+            "projectName": "ICS4U-Unit-1-11_961982f8"
+        }
+    ]
+}
